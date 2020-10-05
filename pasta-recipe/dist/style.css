@@ -1,0 +1,63 @@
+body {
+  background: rgb(0,167,29);
+  background: linear-gradient(90deg, rgba(0,167,29,1) 0%, rgba(231,0,0,1) 100%);}
+
+h1 {
+  font-family: 'EB Garamond', serif;
+  color: white;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-family: 'EB Garamond', serif;
+  color: white;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p1 {
+  font-family: 'EB Garamond', serif;
+  color: white;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  float:left;
+  border-radius: 50%;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+ .centerImage {
+  position: relative;
+  left: 44%;
+  top: 150px;
+  border: 10px solid white;
+  padding: 0px;
+}
+
+p2 {
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-family: 'EB Garamond', serif;
+  color: white;
+  display: block;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
